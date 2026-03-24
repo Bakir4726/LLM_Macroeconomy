@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "euromacro-copilot"
+version = "0.1.0"
+description = "Euro area macroeconomic copilot with domain RAG and a web UI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.44",
+    "notebook>=7.3",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

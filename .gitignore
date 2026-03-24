@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
+data/cache/
+data/external/*
+!data/external/README.md

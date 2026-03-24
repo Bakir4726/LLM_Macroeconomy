@@ -1,0 +1,296 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2493 >>
+stream
+BT
+1 0 0 1 54 790 Tm
+/F2 24 Tf
+30 TL
+(EuroMacro Copilot) Tj
+/F1 12 Tf
+20 TL
+T*
+(Guide d'utilisation de l'application web) Tj
+/F1 11 Tf
+12 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(1. Lancer l'application) Tj
+/F1 11 Tf
+15 TL
+T*
+(Activez l'environnement virtuel du projet puis lancez l'interface avec la commande :) Tj
+T*
+(streamlit run app.py.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Au chargement, la page d'accueil affiche un bandeau de synthèse avec le volume du corpus) Tj
+T*
+(indexé, le score d'incertitude macro et l'état du moteur de réponse.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(La barre latérale rappelle où déposer de nouvelles sources et propose des liens directs vers) Tj
+T*
+(les jeux de données officiels recommandés.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(2. Lire le tableau de bord) Tj
+/F1 11 Tf
+15 TL
+T*
+(Les quatre cartes principales donnent une lecture immédiate de l'inflation IPCH, de) Tj
+T*
+(l'inflation sous-jacente, du coût du financement et du taux de chômage.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Chaque carte affiche la dernière valeur disponible, la variation par rapport à l'observation) Tj
+T*
+(précédente et la date de mise à jour. Cela permet d'identifier rapidement si la dynamique) Tj
+T*
+(est en hausse, en baisse ou stable.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Dans la colonne de droite, le bloc 'Narratifs détectés' met en avant les thèmes les plus) Tj
+T*
+(présents dans le corpus documentaire : choc énergie, faiblesse de la demande, resserrement) Tj
+T*
+(financier ou résilience du marché du travail.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(3. Explorer les indicateurs) Tj
+/F1 11 Tf
+15 TL
+T*
+(Utilisez la liste déroulante centrale pour choisir la série à examiner. Deux onglets) Tj
+T*
+(permettent ensuite de basculer entre la courbe d'évolution et le tableau détaillé des) Tj
+T*
+(observations.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(La vue 'Courbe' aide à repérer la trajectoire générale de l'indicateur. La vue 'Tableau' est) Tj
+T*
+(utile pour vérifier les dates et comparer précisément les derniers points.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Le bloc 'Questions utiles' fournit des formulations prêtes à l'emploi si vous souhaitez) Tj
+T*
+(démarrer rapidement un échange dans le chat analytique.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(Repère pratique) Tj
+/F1 11 Tf
+15 TL
+T*
+(Les séries incluses dans le projet sont des données de démonstration. Elles servent à) Tj
+T*
+(illustrer l'usage de l'application et non à remplacer une base officielle en temps réel.) Tj
+11 TL
+T*
+() Tj
+12 TL
+T*
+() Tj
+/F1 10 Tf
+T*
+(Page 1/2) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2544 >>
+stream
+BT
+1 0 0 1 54 790 Tm
+/F2 20 Tf
+28 TL
+(Utiliser le copilote au quotidien) Tj
+/F1 11 Tf
+12 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(4. Poser une question dans le chat) Tj
+/F1 11 Tf
+15 TL
+T*
+(En bas de l'écran, saisissez une question métier ou macroéconomique. Exemple : 'Que signifie) Tj
+T*
+(le reflux de l'inflation pour ma politique tarifaire ?') Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Le copilote répond en français avec une structure simple : diagnostic, implications PME,) Tj
+T*
+(variables à surveiller et sources utilisées.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Lorsque le modèle distant n'est pas configuré, l'application bascule automatiquement sur une) Tj
+T*
+(réponse heuristique locale. Le résultat reste exploitable pour un premier cadrage) Tj
+T*
+(analytique.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(5. Consulter les sources mobilisées) Tj
+/F1 11 Tf
+15 TL
+T*
+(Chaque réponse assistant peut être dépliée pour afficher les extraits de documents ayant) Tj
+T*
+(servi à la réponse. Le score de pertinence aide à comprendre pourquoi une source a été) Tj
+T*
+(retenue.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Cette étape est importante pour vérifier l'argumentation et distinguer ce qui vient des) Tj
+T*
+(documents, des séries de démonstration et de l'interprétation produite par le système.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(6. Ajouter ou remplacer des documents) Tj
+/F1 11 Tf
+15 TL
+T*
+(Placez vos notes Markdown, fichiers texte, pages HTML ou exports préparés dans) Tj
+T*
+(data/documents/. Les fichiers externes récupérés depuis des sites officiels peuvent être) Tj
+T*
+(déposés dans data/external/.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Le chargeur gère désormais les encodages les plus courants, notamment UTF-8, UTF-8 avec BOM,) Tj
+T*
+(CP1252 et Latin-1. Les accents français et caractères spéciaux sont donc mieux préservés.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Après ajout ou modification du corpus, relancez l'application pour reconstruire l'index) Tj
+T*
+(local et prendre en compte les nouveaux contenus.) Tj
+11 TL
+T*
+() Tj
+/F2 15 Tf
+22 TL
+T*
+(Bonnes pratiques) Tj
+/F1 11 Tf
+15 TL
+T*
+(Formulez des questions ciblées : financement, prix, investissement, recrutement ou lecture) Tj
+T*
+(d'un narratif BCE. Plus la question est précise, plus la réponse sera utile.) Tj
+11 TL
+T*
+() Tj
+15 TL
+T*
+(Croisez toujours la réponse du copilote avec votre contexte métier, vos données internes et,) Tj
+T*
+(si nécessaire, les sources officielles. L'application est un outil d'aide à la décision, pas) Tj
+T*
+(un substitut à l'analyse finale.) Tj
+11 TL
+T*
+() Tj
+12 TL
+T*
+() Tj
+/F1 10 Tf
+T*
+(Page 2/2) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000003007 00000 n 
+0000003143 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5739
+%%EOF
